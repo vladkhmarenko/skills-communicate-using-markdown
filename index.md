@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+An example of list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
